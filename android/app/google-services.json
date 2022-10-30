@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "54489289056",
+    "project_id": "todolist-e7a84",
+    "storage_bucket": "todolist-e7a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54489289056:android:097a9b250b452853784e05",
+        "android_client_info": {
+          "package_name": "com.example.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54489289056-ukd30e41g9ihim4c3lls2lgme626ekfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todoapp",
+            "certificate_hash": "65d18792dd3a30d09d751cdb92530ce8cad19543"
+          }
+        },
+        {
+          "client_id": "54489289056-dejndar4omll3b5f610vjgjteec4rcg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl9lqI-6FdbD5IYWspJTceZSQOXy_M-Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54489289056-dejndar4omll3b5f610vjgjteec4rcg0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54489289056-1sh83aok0skqhc5kmmff9pga6umb4nsl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todolist"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54489289056:android:56096ca192ede602784e05",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54489289056-dejndar4omll3b5f610vjgjteec4rcg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl9lqI-6FdbD5IYWspJTceZSQOXy_M-Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54489289056-dejndar4omll3b5f610vjgjteec4rcg0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "54489289056-1sh83aok0skqhc5kmmff9pga6umb4nsl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todolist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
